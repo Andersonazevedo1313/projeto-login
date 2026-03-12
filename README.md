@@ -31,7 +31,7 @@ Como rodar o projeto
 Faça o clone deste repositório:
 
 Bash
-git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
+git clone https://github.com/Andersonazevedo1313/projeto-login.git
 Navegue até a pasta do projeto.
 
 Abra o arquivo index.html em qualquer navegador.
