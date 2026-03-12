@@ -25,3 +25,16 @@ PROJETO-LOGIN/
 │   └── style.css
 └── script/
     └── script.js
+
+
+Como rodar o projeto
+Faça o clone deste repositório:
+
+Bash
+git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
+Navegue até a pasta do projeto.
+
+Abra o arquivo index.html em qualquer navegador.
+
+👤 Autor
+Desenvolvido por Anderson Azevedo.
